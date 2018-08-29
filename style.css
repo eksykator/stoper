@@ -1,0 +1,31 @@
+body {
+	width: 500px;
+	margin: 20px auto;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.button {
+	width: 100px;
+	height: 30px;
+	border: none;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	display: inline-block;
+}
+
+#start,
+#stop {
+	background-color: #0077CC;
+}
+
+#reset {
+	background-color: #FE1A1A;
+}
+
+.stopwatch {
+	margin-top: 20px;
+}
